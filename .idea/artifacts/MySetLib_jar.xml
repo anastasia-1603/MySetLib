@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MySetLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MySetLib_jar</output-path>
+    <root id="archive" name="MySetLib.jar">
+      <element id="module-output" name="MySetLib" />
+    </root>
+  </artifact>
+</component>
